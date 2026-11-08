@@ -5,15 +5,11 @@ internal class Program
     private static void Main(string[] args)
     {
         
-
-
         string playerChoice;
         string computerChoice;
         Random random = new Random();
         bool playAgain = true;
         int gameNum = 1;
-
-
 
         while (playAgain)
         {
